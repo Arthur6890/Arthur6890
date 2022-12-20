@@ -4,7 +4,7 @@
 
 - 🦩 Front End Developer and Software Engineer at  <a href="https://www.flashapp.com.br/" target="_blank"> Flash Beneficios </a> 🦩
 
-- 🤩Consider to access my portfolio-website <a href="https://arthur-portfolio.vercel.app/" target="_blank"> Flash Beneficios </a> 🤩
+- 🤩Consider to access my <a href="https://arthur-portfolio.vercel.app/" target="_blank"> portfolio-website </a> 🤩
 
 &nbsp;
 
