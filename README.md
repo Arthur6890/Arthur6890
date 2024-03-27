@@ -1,11 +1,8 @@
 
-### Hello there! Welcome to my Github Profile
+### Hello there! Welcome to my GitHub Profile
 ## My name's Arthur, but you can call me Ramos.
 
-I am graduating in Information Systems from the Federal University of Minas Gerais, and I intend to start a master's degree in 2025, my favorite areas of activity are: Front End, Back End, Mobile Development, and Cybersecurity.
-
-- 🦩 Front End Developer and Software Engineer at  <a href="https://www.flashapp.com.br/" target="_blank"> Flash Beneficios </a> 🦩
-
+I'm a Brazil 🇧🇷 based software engineer at <a href="https://www.flashapp.com.br/" target="_blank"> Flash Beneficios </a> graduating in Information Systems from the Federal University of Minas Gerais, one of the most renowned universities in latin america and I intend to start a master's degree in 2025, my favorite areas of activity are: Front End, Back End, Mobile Development, and Cybersecurity.
 
 &nbsp;
 
