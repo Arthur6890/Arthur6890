@@ -2,7 +2,7 @@
 ### Hello there! Welcome to my GitHub Profile
 ## My name's Arthur, but you can call me Ramos.
 
-I'm a Brazil 🇧🇷 based software engineer at <a href="https://qive.com.br/" target="_blank"> Qive. </a> I have a degree in information systems from the Federal University of Minas Gerais, one of the most renowned universities in latin america! My favorite areas of activity are: Front End, Back End, Mobile Development, and Cybersecurity.
+I'm a Brazil 🇧🇷 based software engineer at <a href="https://www.fiemg.com.br/" target="_blank"> FIEMG. </a> I have a degree in information systems from the Federal University of Minas Gerais, one of the most renowned universities in latin america! My favorite areas of activity are: Front End, Back End, Mobile Development, and Cybersecurity.
 
 &nbsp;
 
